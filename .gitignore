@@ -4,8 +4,7 @@
 *.imzml
 
 # Downloaded dataset directories
-data/b07f13aa/
-data/b84bb453/
+data/
 
 # R
 .Rproj.user/
@@ -14,16 +13,13 @@ data/b84bb453/
 .Ruserdata
 *.Rproj
 
-# Python, if you use it for XML parsing
-__pycache__/
-*.pyc
-.venv/
-venv/
-
 # Output you can regenerate
 output/
-figures/
 cache/
+
+# Readme files
+README.html
+README_files/
 
 # macOS
 .DS_Store
